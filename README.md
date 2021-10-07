@@ -2,7 +2,7 @@
 a custom single node lates apache druid docker image that is ready to use without any custom configs.
 
 ## Running from dockerhub 
-	docker pull mujahid002/apache-superset:latest
+	docker pull mujahid002/druid:latest
 
 and then run it by
 
